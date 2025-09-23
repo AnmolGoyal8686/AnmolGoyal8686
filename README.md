@@ -24,7 +24,7 @@ Welcome to my GitHub! I’m passionate about building modern web applications an
 `Scikit-learn` | `TensorFlow` | `PyTorch` | `Hugging Face Transformers` | `OpenAI APIs` | `LangChain`  
 
 **Other Tools**  
-`Git/GitHub` | `Firebase` | `Docker` | `AWS (in progress)`  
+`Git/GitHub` | `Firebase` | `Docker` | `AWS`  
 
 ---
 
