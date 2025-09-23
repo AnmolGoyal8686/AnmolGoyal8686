@@ -32,8 +32,7 @@ Welcome to my GitHub! I’m passionate about building modern web applications an
 
 - 🌦️ **Multilingual Weather Calendar** → Calendar app with multilingual text + weather data visualization (Python + JS).  
 - 🖼️ **Live Face Mask Detection** → Real-time computer vision project using CNNs + OpenCV.  
-- 🖥️ **React Web Applications** → Multiple full-stack apps built with **ReactJS, Node, and MongoDB**.  
-- 🕶️ **VR Research Assistant Work** → Developed interactive VR environments with **haptics integration**.  
+- 🖥️ **React Web Applications** → Multiple full-stack apps built with **ReactJS, Node, and MongoDB**. 
 
 ---
 
